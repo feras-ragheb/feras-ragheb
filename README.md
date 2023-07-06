@@ -2,7 +2,7 @@ Hi i am feras abu nimreh  👋
 ### Freelance full-stack web application.
 
 
-## Tecnologías:
+## Tecnologies:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
